@@ -20,7 +20,7 @@ if($number_of_rows>0)
 {
   while($result->fetchObject())
   {
-    echo "Hi $firstName. You have been successfuly signed in. Welcome to NU Foods. Stay and enjoy our delicacies.";
+    echo "Hi $firstName. You have been successfuly signed in. Welcome to NU Foods. Stay and enjoy our delicacies to the best.";
     
   }
 

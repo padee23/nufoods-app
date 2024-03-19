@@ -1,6 +1,6 @@
 <?php
-$email=$_POST['email'];
-$password=$_POST['psw'];
+$email=$_POST['ojeleyeademola2008@gmail.com'];
+$password=$_POST['test123'];
 
 include("connection.php");
 $connection=new CONNECTION();
